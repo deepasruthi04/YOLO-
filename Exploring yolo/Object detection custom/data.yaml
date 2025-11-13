@@ -1,0 +1,7 @@
+train: C:/Users/deepasruthi.ramesh/Documents/Image_detection/VI_Learning/ObjCountCustom/Dataset/merged_train
+val: C:/Users/deepasruthi.ramesh/Documents/Image_detection/VI_Learning/ObjCountCustom/Dataset/merged_test
+
+nc: 4 
+names: ['airpods', 'bottle', 'mouse','pen'] 
+
+
